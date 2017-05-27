@@ -11,4 +11,13 @@ using technologies such as Java Servlet API, JSP, JSTL;
 3) OpenWeatherApi - simple variant to use API OpenWeather using URL connection, Thread/Runnable, Gson for parse.
 
 4) SimpleCoreProjects:
+ a) brainFuck Language Interpetator; 
+ b) deck with 36 cards (enums);
+ c) employeeSalary (sorting with comparator, serialization, deserialization);
+ d) linkedList realization (nodes);
+ e) pattern Command;
+ f) RLE: encodding, decodding;
+ g) RPN parser;
+ h) square root of the equation;
+ i) simple tic Tac toe game (comp vs comp, 3x3 board, no strategy); 
 
