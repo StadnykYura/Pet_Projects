@@ -6,8 +6,9 @@ public class Main {
 	public static void main(String[] args) {
 	
 		URLconnect urLconnect = new URLconnect();
-		NewThread newThread = new NewThread(urLconnect, "http://api.openweathermap.org/data/2.5/weather?q=Lviv&units=metric&APPID=b39733ad1d466a3d23f7eb1bb33226a5");
-//		
+		NewThread newThread = new NewThread(urLconnect,
+		"http://api.openweathermap.org/data/2.5/weather?q=Lviv&units=metric&APPID=*********************");
+/*		***************** put your APPID for using this url Register on openweatherapi to get APPID */
 		
 		try {
 			newThread.t.join();
