@@ -19,7 +19,7 @@ public class Player {
 		int x;
 		int y;
 		x = randomCoord.nextInt(board.getBoardTable().length);
-		y = randomCoord.nextInt(board.getBoardTable().length);
+		y = randomCoord.nextInt(board.getBoardTable()[x].length);
 		while (board.getBoardTable() [x] [y] != null) {
 			x = randomCoord.nextInt(board.getBoardTable().length);
 			y = randomCoord.nextInt(board.getBoardTable().length);			

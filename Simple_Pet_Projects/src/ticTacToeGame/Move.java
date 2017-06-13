@@ -8,7 +8,6 @@ public class Move {
 	
 	
 	public Move(int x, int y, ActionFigure actrionFigure) {
-		
 		this.x = x;
 		this.y = y;
 		this.actionFigure = actrionFigure;

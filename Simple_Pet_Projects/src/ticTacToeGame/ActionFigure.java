@@ -15,9 +15,6 @@ public enum ActionFigure {
 		return sign;
 	}
 
-	public void setSign(String sign) {
-		this.sign = sign;
-	}
 	
 	
 	
