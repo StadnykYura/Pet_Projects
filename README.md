@@ -28,5 +28,5 @@ using technologies such as Java Servlet API, JSP, JSTL;
  
     h) square root of the equation;
  
-    i) simple tic Tac toe game (comp vs comp, 3x3 board, no strategy); 
+    i) simple tic Tac toe game (comp vs comp, comp vs Human, human vs human, 3x3 board, few strategies for 'X' and 'O' comps); 
 
