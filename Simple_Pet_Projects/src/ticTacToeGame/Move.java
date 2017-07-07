@@ -27,6 +27,12 @@ public class Move {
 	}
 
 
+	public void setActionFigure(ActionFigure actionFigure) {
+		this.actionFigure = actionFigure;
+	}
+
+	
+
 
 	
 	
